@@ -3,5 +3,6 @@
   "interfaceFontFamily": "ComicShannsMono Nerd Font",
   "textFontFamily": "ComicShannsMono Nerd Font",
   "monospaceFontFamily": "ComicShannsMono Nerd Font",
-  "cssTheme": "Feather"
+  "cssTheme": "Feather",
+  "baseFontSize": 18
 }
