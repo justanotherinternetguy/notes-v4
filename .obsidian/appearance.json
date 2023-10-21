@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "ComicShannsMono Nerd Font",
-  "textFontFamily": "ComicShannsMono Nerd Font",
-  "monospaceFontFamily": "ComicShannsMono Nerd Font",
-  "cssTheme": "Feather",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "BigBlueTerm437 Nerd Font Mono",
+  "cssTheme": "SALEM",
   "baseFontSize": 18
 }

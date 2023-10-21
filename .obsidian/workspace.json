@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1673b095f9d6cd63",
+            "id": "8673d6287d2c3e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/US History 1/Unit 2.md",
+                "file": "School/USH1 Notes - Feeley.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History 1/Unit 2.md",
+                "file": "School/USH1 Notes - Feeley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History 1/Unit 2.md",
+                "file": "School/USH1 Notes - Feeley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/US History 1/Unit 2.md"
+                "file": "School/USH1 Notes - Feeley.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +147,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1673b095f9d6cd63",
+  "active": "8673d6287d2c3e83",
   "lastOpenFiles": [
+    "TODO.md",
+    "School/USH1 Notes - Feeley.md",
+    "School/US History 1/Unit 2.md",
     "Home/Multivar/Unit 2.md",
     "Home/F=MA notes/Kinematics.md",
     "Home/Untitled/Untitled",
-    "School/US History 1/Unit 2.md",
     "Home/F=MA notes",
     "Images/Pasted image 20231015110611.png",
     "Images/Pasted image 20231015110236.png",
