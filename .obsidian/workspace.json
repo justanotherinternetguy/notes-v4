@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/USH1 Notes - Feeley.md",
+                "file": "Home/Multivar/Chapter 13.3 - Arc Length and Curavture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/USH1 Notes - Feeley.md",
+                "file": "Home/Multivar/Chapter 13.3 - Arc Length and Curavture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/USH1 Notes - Feeley.md",
+                "file": "Home/Multivar/Chapter 13.3 - Arc Length and Curavture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/USH1 Notes - Feeley.md"
+                "file": "Home/Multivar/Chapter 13.3 - Arc Length and Curavture.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,15 +150,23 @@
   },
   "active": "8673d6287d2c3e83",
   "lastOpenFiles": [
-    "TODO.md",
+    "Images/Pasted image 20231021165306.png",
+    "Images/Pasted image 20231021163050.png",
+    "Images/Pasted image 20231021162719.png",
+    "Images/Pasted image 20231021162404.png",
+    "Images/Pasted image 20231021162354.png",
+    "Images/Pasted image 20231021162347.png",
+    "Images/Pasted image 20231021162319.png",
+    "Home/Multivar/Chapter 13.1.md",
+    "Home/Multivar/Chapter 13.3 - Arc Length and Curavture.md",
+    "Images/Pasted image 20231015110236.png",
+    "Images/Pasted image 20231015110611.png",
     "School/USH1 Notes - Feeley.md",
+    "TODO.md",
     "School/US History 1/Unit 2.md",
-    "Home/Multivar/Unit 2.md",
     "Home/F=MA notes/Kinematics.md",
     "Home/Untitled/Untitled",
     "Home/F=MA notes",
-    "Images/Pasted image 20231015110611.png",
-    "Images/Pasted image 20231015110236.png",
     "Daily",
     "School/US History 1",
     "Home/Multivar",

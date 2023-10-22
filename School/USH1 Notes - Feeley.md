@@ -1,3 +1,0 @@
-- Several mistakes made
-	- Fail to understand what the essay should be
-	- 

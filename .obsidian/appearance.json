@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "Ubuntu Nerd Font",
+  "textFontFamily": "Ubuntu Nerd Font",
   "monospaceFontFamily": "BigBlueTerm437 Nerd Font Mono",
-  "cssTheme": "SALEM",
+  "cssTheme": "Yue",
   "baseFontSize": 18
 }
